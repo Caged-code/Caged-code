@@ -10,7 +10,7 @@
 
 ## 	:handshake: Equipe
 
-[<img src="https://github.com/developersapi/LMSApp/blob/main/anna.jpeg" width=115 > <br> <sub> @Anna Carolina </sub>](https://github.com/AnnaCMendes)| [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=115 > <br> <sub> @Pedro  </sub>](https://github.com/PedroSilva201) | [<img  src="https://avatars.githubusercontent.com/u/67149165?v=4" width=115 > <br> <sub> @Rafael </sub>](https://github.com/Rafael-BD) 
+[<img src="https://github.com/developersapi/LMSApp/blob/main/anna.jpeg" width=140 > <br> <sub> @Anna Carolina </sub>](https://github.com/AnnaCMendes)| [<img src="https://github.com/developersapi/LMSApp/blob/main/pedrofs.jpg" width=140 > <br> <sub> @Pedro  </sub>](https://github.com/PedroSilva201) | [<img  src="https://avatars.githubusercontent.com/u/67149165?v=4" width=170 > <br> <sub> @Rafael </sub>](https://github.com/Rafael-BD) 
  | :---: |:---:|:---:|
 
 
